@@ -32,5 +32,7 @@ Read the adventures of Neah in **The Silver Bird**!
 
 ## [Book 15: The Gay](/Book15.md)
 
+## [Book 16: The KKK](/Book16.md)
+
 
 ### More coming soon!
