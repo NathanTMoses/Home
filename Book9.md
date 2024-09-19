@@ -1,6 +1,6 @@
 # The Silver Bird: The Mystery
 
-# Chapter 1
+## Chapter 1
 
 The chamber was alive with a sinister energy, the walls pulsating with dark symbols as Thena’s malevolent aura filled the space. Whip, standing between Thena and the unconscious Prethy, braced himself for the inevitable confrontation. His Ghost hovered beside him, its light flickering in the oppressive gloom.
 
@@ -16,7 +16,7 @@ Thena watched with a cruel smile as Whip battled her minions. She raised her han
 
 “Nice try, but you’re no match for me,” Thena taunted, her voice dripping with contempt.
 
-# Chapter 2
+## Chapter 2
 
 Whip gritted his teeth, his determination unwavering. He pulled out his **Khostov 7G-0X**, an advanced pulse rifle capable of unleashing a torrent of rapid-fire shots. He fired into the crowd of minions, the rifle’s high-tech optics tracking his targets with precision. The rounds cut through the darkness like a storm, each shot disintegrating the shadowy creatures.
 
@@ -36,7 +36,7 @@ Thena’s concentration faltered for a moment as she struggled to maintain her d
 
 “Now’s our chance!” the Ghost urged, its voice filled with urgency.
 
-# Chapter 3
+## Chapter 3
 
 Whip didn’t hesitate. He advanced on Thena, unleashing a rapid succession of shots from both his weapons. The dark magic around Thena began to wane, her defenses crumbling under the relentless assault.
 
@@ -52,7 +52,7 @@ With a surge of dark energy, Thena summoned a massive, swirling vortex of shadow
 
 Whip gritted his teeth, focusing all his energy on maintaining his defenses. He fired his weapons with renewed determination, each shot slicing through the vortex and weakening Thena’s grip on the dark forces.
 
-# Chapter 4
+## Chapter 4
 
 Thena’s attacks grew more frantic as her power waned. She lashed out with dark tendrils, her magic crackling with malevolent energy. Whip dodged and weaved, his movements precise and calculated as he continued his assault.
 
@@ -66,7 +66,7 @@ Thena glared up at him, her eyes burning with hatred. “You may have won this b
 
 With a final, defiant glare, Thena vanished into a swirl of dark energy, leaving behind only the echoes of her laughter.
 
-# Chapter 5
+## Chapter 5
 
 Whip’s victory was bittersweet. He turned his attention back to Prethy, still unconscious on the pedestal. His Ghost floated beside him, scanning for any remaining threats.
 
@@ -82,7 +82,7 @@ Whip’s eyes narrowed as he scanned the area. “Ghost, any readings on that pr
 
 “Negative,” the Ghost replied, its voice filled with concern. “But something doesn’t feel right.”
 
-# Chapter 6
+## Chapter 6
 
 Whip continued his careful advance, his grip tightening on Prethy. The sense of foreboding grew stronger, as if an unseen force was watching him, waiting for the right moment to strike.
 
@@ -102,7 +102,7 @@ The machine behind the figure began to glow with a sinister light, and Whip’s 
 
 “And now,” Thena’s voice continued, “the true challenge begins. Prepare yourself, Whip, for the return of your greatest enemy.”
 
-# Chapter 7
+## Chapter 7
 
 The transmission ended abruptly, leaving Whip staring at the screen with a mix of dread and determination. He turned to his Ghost, his face set with grim resolve.
 
@@ -112,7 +112,7 @@ As the **WHIPSTREAK** soared through the void, Whip set a course for the unknown
 
 And as the ship hurtled through the darkness of space, the shadows of a new threat loomed ever closer.
 
-# Chapter 8
+## Chapter 8
 
 The dark, foreboding chamber was filled with the sound of mechanical whirring and the low hum of the cloning device. The figure stood in front of the machine, their face still obscured by the hood of their cloak. The chamber was bathed in an eerie, pulsating light that cast long, sinister shadows on the walls.
 
@@ -128,7 +128,7 @@ She gestured toward the cloning device, which continued to hum and pulse with da
 
 Whip’s eyes narrowed as he took in the sight. “You’ve got to be kidding me. This is your plan? To clone more of those monsters?”
 
-# Chapter 9
+## Chapter 9
 
 Thena laughed, a harsh, echoing sound that filled the chamber. “Oh, far more than that. You see, the clones are merely a means to an end. My true purpose is far grander.”
 
@@ -152,7 +152,7 @@ As the dark figure emerged fully from the machine, Thena’s laughter echoed thr
 
 The real battle was about to begin.
 
-# Chapter 10
+## Chapter 10
 
 Whip’s heart raced as he faced the dark figure—an abomination born of Thena’s twisted design. The figure’s eyes burned with a cold, malevolent light, and its presence was overwhelming, exuding a palpable aura of darkness and power.
 
@@ -168,7 +168,7 @@ The dark figure took a step forward, its form shifting and writhing with dark en
 
 “Stay strong!” the Ghost urged. “We need to find a way through this barrier!”
 
-# Chapter 11
+## Chapter 11
 
 Whip gritted his teeth, his eyes locked onto the dark figure as he prepared for the battle ahead. The sense of foreboding grew stronger, and he knew that the fight he was about to face would be the most challenging yet.
 
@@ -184,7 +184,7 @@ As the new Guardian stepped into the chamber, Thena’s expression changed, a mi
 
 The Guardian’s voice was calm and authoritative as they spoke. “I am the one who will end this madness.”
 
-# Chapter 12
+## Chapter 12
 
 The dark figure let out a chilling screech, its eyes glowing with a sinister light. The chamber’s energy shifted, and the dark barrier began to waver.
 
