@@ -12,4 +12,8 @@ Neah's world is in ruin. Thena escaped. She nearly died. Prethy did not survive.
 
 The threat of Thenradi looms. Something is off. The game isn't over, Neah realizes. It has just begun.
 
+## [Book 4: The Battle](/Book4.md)
+
+The battle continues.
+
 ### More coming soon!
