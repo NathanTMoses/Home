@@ -24,5 +24,11 @@ Read the adventures of Neah in **The Silver Bird**!
 
 ## [Book 11: The Betrayal](/Book11.md)
 
+## [Book 12: The Harbinger](/Book12.md)
+
+## [Book 13: The Scare](/Book13.md)
+
+## [Book 14: The Evil](/Book14.md)
+
 
 ### More coming soon!
