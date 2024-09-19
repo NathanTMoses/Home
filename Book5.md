@@ -94,5 +94,5 @@ And with a cold, calculated silence, the battle was about to begin. He grappled 
 
 As he leaped, he drew his weapon.
 
-	![Sweet Business](https://th.bing.com/th/id/OIP.GAQp0qSkq1OIDFZ7Cvu6VAHaCw?rs=1&pid=ImgDetMain)
+[Sweet Business](https://th.bing.com/th/id/OIP.GAQp0qSkq1OIDFZ7Cvu6VAHaCw?rs=1&pid=ImgDetMain)
 
