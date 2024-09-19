@@ -30,5 +30,7 @@ Read the adventures of Neah in **The Silver Bird**!
 
 ## [Book 14: The Evil](/Book14.md)
 
+## [Book 15: The Gay](/Book15.md)
+
 
 ### More coming soon!
