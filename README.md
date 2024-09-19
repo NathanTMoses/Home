@@ -34,9 +34,9 @@ Read the adventures of Neah in **The Silver Bird**!
 
 ## [Book 16: The KKK](/Book16.md)
 
-## [Book 17: The Island](/Book16.md)
+## [Book 17: The Island](/Book17.md)
 
-## [Book 18: The Travel](/Book17.md)
+## [Book 18: The Travel](/Book18.md)
 
 
 ### More coming soon!
