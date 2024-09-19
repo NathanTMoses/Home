@@ -8,6 +8,8 @@ When Thena searches for the Silver Bird, she meets Neah, who is hiding her from 
 ## [Book 2: The Revival](/Book2.md)
 Neah's world is in ruin. Thena escaped. She nearly died. Prethy did not survive. Right?
 
-## [Book 3: The Many]()
+## [Book 3: The Many](/Book3.md)
+
+The threat of Thenradi looms. Something is off. The game isn't over, Neah realizes. It has just begun.
 
 ### More coming soon!
