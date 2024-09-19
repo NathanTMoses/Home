@@ -92,7 +92,14 @@ The letters on his ship burned brighter in the night: **WHIP**.
 
 And with a cold, calculated silence, the battle was about to begin. He grappled to the nearest building, and leaped to the ground.
 
-As he leaped, he drew his weapon.
+As he leaped, he drew his [weapon](
+
+https://assets.vg247.com/current/2017/10/destiny_2_sweet_business_1.jpg
+).
+
+https://assets.vg247.com/current/2017/10/destiny_2_sweet_business_1.jpg
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 [Sweet Business](https://th.bing.com/th/id/OIP.GAQp0qSkq1OIDFZ7Cvu6VAHaCw?rs=1&pid=ImgDetMain)
 
