@@ -1,6 +1,6 @@
 # The Silver Bird: The Revival
 
-# Chapter 1: The Aftermath
+## Chapter 1: The Aftermath
 
 In the days following Prethy’s death, Neah was a shell of herself. The grief weighed heavily on her, far more than she had anticipated. Every night, she replayed the moment in the aviary—the final screech, the dimming of Prethy’s red eyes, and the painful silence that followed. She had killed her beloved companion, her friend, but it had been necessary. Prethy had been lost to the darkness, twisted by Thena’s greed for power. Still, that knowledge did little to ease the ache in Neah’s heart.
 
@@ -12,7 +12,7 @@ It was during one of these restless nights that the nightmares became a reality.
 
 Neah was at home, preparing to close her curtains for the evening, when a strange sound echoed from outside.
 
-# Chapter 2: The Reveal
+## Chapter 2: The Reveal
 
 It was a low, guttural cooing sound, a noise she had once found comforting. Her heart stopped. That sound—it couldn’t be. Slowly, she stepped out onto her porch, the cool night air prickling her skin. She looked around, scanning the darkened yard for any sign of movement. For a moment, everything was still.
 
@@ -30,7 +30,7 @@ The house fell into silence, but Neah knew better than to believe the threat had
 
 The answer came to her in a flash—Thena. Somehow, she had to be behind this. Even from jail, she was orchestrating this nightmare. The woman’s greed for power knew no bounds.
 
-# Chapter 3: The Targeting
+## Chapter 3: The Targeting
 
 Over the next few days, Prethy’s attacks became more frequent, each one more vicious than the last. Neah found herself constantly on edge, looking over her shoulder, never knowing when the bird might strike next. It was a game of cat and mouse, a cruel chase in which Neah was always one step behind, barely escaping Prethy’s deadly attacks.
 
@@ -38,7 +38,7 @@ But Neah wasn’t the only one being targeted. As the days passed, she learned t
 
 Desperate for answers, Neah reached out to her sisters for help. Riya, ever the researcher, uncovered an ancient text that spoke of a ritual capable of bringing mystical creatures back from the dead. It was a dark, forbidden magic, one that Thena had likely used. But there was hope. The text also mentioned that the bond between a creature and its offspring was the key to ending the cycle of resurrection. If one of Prethy’s children could break free from the corruption, it could end Prethy’s reign of terror forever.
 
-# Chapter 4: The Hope
+## Chapter 4: The Hope
 
 And so, Neah sought out Pithurby, the youngest of Prethy’s children. Unlike the others, Pithurby had always been more curious, more in tune with the world around her. Neah believed that if any of the offspring could be saved, it was her.
 
@@ -52,7 +52,7 @@ For a moment, Pithurby hesitated, her red eyes flickering as if struggling again
 
 The battle between mother and daughter was swift and brutal. Pithurby, driven by something deep within her, struck the final blow, her beak piercing Prethy’s heart. Prethy let out one final, ear-splitting screech before collapsing to the ground, her body disintegrating into a cloud of silver dust. The other three chicks, seeing their mother fall, fled into the night, never to be seen again.
 
-# Chapter 5: The Horror
+## Chapter 5: The Horror
 
 The aftermath was silent. Neah stood in the center of the ruined aviary, rain pouring through the gaping hole in the roof, her heart heavy. Prethy was gone, this time for good. But the victory felt hollow. Too much had been lost.
 
@@ -64,7 +64,7 @@ But the sense of unease never left her.
 
 Weeks passed, and life slowly returned to normal. Neah focused on her work, trying to forget the horrors of the past few months. But late at night, the nightmares continued. And then, one evening, she received a chilling message.
 
-# Chapter X
+## Chapter X
 
 Thena had a daughter, someone named Threnadi.
 
