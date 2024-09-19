@@ -1,4 +1,4 @@
-# The Silver Bird: The Many
+# The Silver Bird: The Revival
 
 # Chapter 1: The Aftermath
 
