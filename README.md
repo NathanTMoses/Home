@@ -16,4 +16,8 @@ The threat of Thenradi looms. Something is off. The game isn't over, Neah realiz
 
 The battle continues.
 
+## [Book 5: The Encounter](/Book5.md)
+
+All is lost. But not him.
+
 ### More coming soon!
