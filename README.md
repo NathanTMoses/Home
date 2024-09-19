@@ -20,5 +20,9 @@ Read the adventures of Neah in **The Silver Bird**!
 
 ## [Book 9: The Mystery](/Book9.md)
 
+## [Book 10: The Guardian](/Book10.md)
+
+## [Book 11: The Betrayal](/Book11.md)
+
 
 ### More coming soon!
